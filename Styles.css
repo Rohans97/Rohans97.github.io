@@ -6,6 +6,7 @@
 }
 .top-right {
   position: absolute;
+	font-size: 12pt;
   top: 8px;
   right: 100px;
 }
