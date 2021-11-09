@@ -1,6 +1,14 @@
 
-
-
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 100px;
+}
 
 h1 {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -39,7 +47,7 @@ a.left {
     color: teal;
 }
     
-    
+  
 a.center {
         font-family: "Trebuchet MS", Helvetica, sans-serif;
         font-size: 3em;
